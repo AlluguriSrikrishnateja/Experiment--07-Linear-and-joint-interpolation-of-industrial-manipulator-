@@ -5,7 +5,7 @@
       
 ### Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform 
-      
+
 ### Theory 
     The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
